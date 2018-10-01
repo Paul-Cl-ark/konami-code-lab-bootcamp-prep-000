@@ -12,5 +12,7 @@ const codes = [
 ];
 
 function init() {
-  // your code here
+ const codes = ['b', 'a'];
+ let index = 0;
+ 
 }
